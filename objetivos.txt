@@ -1,3 +1,6 @@
 Aprender Git de forma profesional
 Aprender GitHub
 Crear proyectos reales y utilizar Git.
+Aprender NodeJs.
+Aprender Python.
+Dominar Git y GitHub
