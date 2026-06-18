@@ -4,3 +4,5 @@ Crear proyectos reales y utilizar Git.
 Aprender NodeJs.
 Aprender Python.
 Dominar Git y GitHub
+Aprender React
+Aprender Docker
