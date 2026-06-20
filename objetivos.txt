@@ -8,3 +8,4 @@ Aprender React
 Aprender Docker
 Implementar sistema de login
 Aprender CI/CD
+Aprender Terraform
